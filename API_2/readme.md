@@ -1,7 +1,7 @@
 # Resolução do segundo desafio do modulo de construção de APIs do Bootcamp Python AI Backend Developer
 
 ## Descrição
-- Criação de um API utilizando o frameworl **FastAPI** da linguagem **Python** juntamento com o ***TDD*** utilizando um bancod de dados **MongoDB** criado via conteiner no **Docker** realizando o seu consumo via **Postman** e a checagem via modulo **pytest**
+- Criação de um API utilizando o frameworl **FastAPI** da linguagem **Python** juntamente com o ***TDD*** utilizando um bancod de dados **MongoDB** criado via conteiner no **Docker** realizando o seu consumo via **Postman** e a checagem via modulo **pytest**
 
 ## 💻Autor
 - André Casimiro da Silva
